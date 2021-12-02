@@ -1,13 +1,13 @@
 {
-    "name": "madnest/madzipper",
-    "description": "Wannabe successor of Chumper/Zipper package for Laravel",
+    "name": "nmsprime/madzipper",
+    "description": "Fork of madnest/madzipper package for Laravel to keep compatibility to Laravel 6 and PHP 8.0",
     "type": "library",
     "license": "MIT",
     "authors": [
         {
-            "name": "Jakub Theimer",
-            "email": "theimer@madne.st",
-            "homepage": "https://madne.st",
+            "name": "Christian Schramm",
+            "email": "christian.schramm@nmsprime.com",
+            "homepage": "https://nmsprime.com",
             "role": "Developer"
         }
     ],

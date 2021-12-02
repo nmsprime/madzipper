@@ -1,5 +1,10 @@
 # Note
 
+This is a fork of [madnest/madzipper](https://github.com/nmsprime/madzipper) to keep compatibility with Laravel 6 until Laravel 9 arrives.
+It is an intermediate version that supports both, PHP 8.0 and Laravel 6. We will most likely continue to use [madnest/madzipper](https://github.com/nmsprime/madzipper)
+once Laravel 9 is out and support for it is added.
+
+
 This is a very early stage package that aims to become a successor of [chumper/zipper](https://github.com/Chumper/Zipper) package.
 It started as a fork because we needed Laravel 6.0 compatibility. I will try to make it compatible with Laravel 6 and up.
 
